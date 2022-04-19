@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
 <h1 align="center">Hi 👋, I'm Hiba Fathima P A</h1>
 <h3 align="center">I am a BSc statistics Student</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/Y8i4GPM6ECH6e9M59">
+<img align="right" alt="Coding" width="400" src="https://i2.wp.com/i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy-downsized.gif?w=770&ssl=1">
 
 - 🔭 I’m currently working on *Coding skills*
 
